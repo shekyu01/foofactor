@@ -1,4 +1,4 @@
-#' Bind two factors
+#' Bind given two factors
 #'
 #' @param a factor
 #' @param b factor
